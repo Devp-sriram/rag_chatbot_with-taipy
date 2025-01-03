@@ -37,7 +37,3 @@ get it from here[https://aistudio.google.com/apikey]
 ```bash
 taipy run main.py --use-reloader
 ```
-
-
-
-```
